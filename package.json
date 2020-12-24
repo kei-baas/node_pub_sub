@@ -1,0 +1,16 @@
+{
+  "name": "pubsub",
+  "version": "1.0.0",
+  "description": "javascript pubsub compatible with both client and server on single process",
+  "main": "ps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "keywords": ["pubsub","node","javascript","server","singleProcess"],
+  "author": "yaghi",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
